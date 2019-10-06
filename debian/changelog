@@ -8,6 +8,12 @@ cinnamon-session (4.4.0) tricia; urgency=medium
 
  -- Clement Lefebvre <root@linuxmint.com>  Sat, 16 Nov 2019 15:12:52 +0100
 
+cinnamon-session (4.2.1-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Sun, 06 Oct 2019 21:50:50 +0200
+
 cinnamon-session (4.2.1) tina; urgency=medium
 
   [ Michael Webster ]
